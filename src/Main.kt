@@ -31,15 +31,6 @@ fun main(){
 
     println("_______________________________________")
 
-    println("my first commit")
-    println("my first commit")
 
-    println("my first commit")
-    println("my first commit")
-
-    println("my first commit")
-    println("my first commit")
-
-    println("my first commit")
 
 }
