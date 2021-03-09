@@ -28,4 +28,13 @@ fun main(){
     println(text)
 
     println(ascii)
+
+    println("_______________________________________")
+
+    println("my first commit")
+    println("my first commit")
+
+    println("my first commit")
+    println("my first commit")
+
 }
